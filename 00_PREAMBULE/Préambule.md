@@ -5,7 +5,7 @@
 ## 1. Objectifs :
 
 - Apprendre à manipuler l'outil informatique
-- Se connecter aux différents compte du lycée
+- Se connecter aux différents comptes du lycée
 
 ## 2. Connexion aux ordinateurs :
 
