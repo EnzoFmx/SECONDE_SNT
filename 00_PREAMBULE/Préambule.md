@@ -80,6 +80,3 @@ En SNT l'acc√®s aux cours se fera sur un site internet. La plateforme est appel√
 Voici le lien : https://github.com/EnzoFmx/SECONDE_SNT
 
 Ici pas besoin de compte, le site est accessible depuis n'importe quel appareil. Il faut juste une connexion internet.  
-
-
-

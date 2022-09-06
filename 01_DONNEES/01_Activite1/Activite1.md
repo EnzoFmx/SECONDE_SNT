@@ -32,7 +32,7 @@ Lucas Dupond est en 2G03 alors le fichier s'appelle :
 
 ## 3. Introduction : 
 
-Les données sont présentes dans nos appareils, que cela soit de manière directe ou non. Le but de cette activité est de comprendre ce que peux être une donnée et comment sont elle collectées et stockées.
+Les données sont présentes dans nos appareils, que cela soit de manière directe ou non. Le but de cette activité est de comprendre ce que peut être une donnée et comment sont elles collectées et stockées.
 
 Pour cela, une activité est distribuée par le professeur, appelé le afin de l'avoir. 
 
