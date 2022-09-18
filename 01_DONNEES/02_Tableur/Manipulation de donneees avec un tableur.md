@@ -60,7 +60,7 @@ Par exemple : Frank Dupont et Bob Legrand en 2G99 doivent enregistrer leur fichi
 
 <u>Le fichier avec les réponses est à enregistrer sous le format :</u>
 
-​	CLASSE_NOM1_PRENOM1_REPONSES_QUESTIONS
+- CLASSE_NOM1_PRENOM1_REPONSES_QUESTIONS
 
 ## 5. A vous de jouer !
 
