@@ -41,7 +41,12 @@ Afin d'utiliser une formule il faut écrire avant un =
 
 ## 4 . Travail à faire :
 
-Récupérer le tableur sur GitHub, le fichier est nommé `Tableau`
+Récupérer le tableau sur GitHub :
+
+- Le fichier est nommé `Tableau`
+
+- Cliquer sur Télécharger (Download)
+- Enregistrer le tableau dans un dossier SNT (Attention à créer ce dossier dans le :H (prenom.nom))
 
 Pour chaque question écrire la solution dans un fichier texte (Type Word), appliquez le aussi sur le tableur.
 
