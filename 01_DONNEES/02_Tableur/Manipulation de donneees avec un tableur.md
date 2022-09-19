@@ -33,7 +33,7 @@ Il est possible d'écrire dans les cellules automatiquement :
 
 Afin d'utiliser une formule il faut écrire avant un = 
 
-- Par exemple "=Somme(A1:A22)" sera la somme de la cellule A1 et A22
+- Par exemple "=Somme(A1:A22)" sera la somme de la cellule A1 à A22
 - Voir la colonne B du tableur
 - Quelques exemples de fonction :
     - Si, Somme, Puissance, Min, Max, Moyenne
@@ -72,15 +72,16 @@ Pour chaque résultat trouvés dans les étapes ci-dessous, étirez le résultat
 
 ### 5. 2. Différents formats de cellule :
 
-1) Quel est le format de la cellule A2 ?
-   - Etirer la colonne A
+2. Quel est le format de la cellule A2 ?
+
+- Etirer la colonne A
 
 
 3) Quel est le format de la cellule B2 
    - Etirer la colonne B
 
 
-4) Quel est me format de la cellule C2
+4) Quel est le format de la cellule C2
    - Etirer la colonne C
 
 
@@ -104,8 +105,6 @@ Pour ces questions il faut créer des formules, pour cela commencez les avec un 
 
 ### 5. 4. Petites statistiques : 
 
-5) Ecrire la formule dans la cellule E24 pour déterminer le minimum des résultats obtenus dans les cellules E2:E22 (de E2 à E22)
-
-6) Ecrire la formule dans la cellule E24 pour déterminer le maximum des résultats obtenus dans les cellules E2:E22 (de E2 à E22)
-
-7) Ecrire la formule dans la cellule E24 pour déterminer la moyenne des résultats obtenus dans les cellules E2:E22 (de E2 à E22)
+11. Ecrire la formule dans la cellule E24 pour déterminer le minimum des résultats obtenus dans les cellules E2:E22 (de E2 à E22)
+12. Ecrire la formule dans la cellule E24 pour déterminer le maximum des résultats obtenus dans les cellules E2:E22 (de E2 à E22)
+13. Ecrire la formule dans la cellule E24 pour déterminer la moyenne des résultats obtenus dans les cellules E2:E22 (de E2 à E22)
