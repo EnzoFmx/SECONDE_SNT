@@ -54,7 +54,7 @@ Pour chaque question écrire la solution dans un fichier texte (Type Word), appl
 
 - CLASSE_NOM1_PRENOM1_DONNEE_TABLEUR
 
-Par exemple : Frank Dupont et Bob Legrand en 2G99 doivent enregistrer leur fichier comme :
+Par exemple : Frank Dupont en 2G99 doit enregistrer son fichier comme :
 
 - 2G99_FRANK_DUPONT_DONNE_TABLEUR
 
