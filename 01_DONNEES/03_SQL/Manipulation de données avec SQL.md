@@ -47,7 +47,7 @@ Pour manipuler la base, il faut écrire une requête. Celles-ci sont assez sembl
 Par exemple :
 
 - Sélectionner toutes les données de la table *Eleve*
-    - Select ***** from *Eleve*
+    - Select * from *Eleve*
 - Sélectionner la colonne classe de la table *Eleve*
     - Select Classe from *Eleve*
 
