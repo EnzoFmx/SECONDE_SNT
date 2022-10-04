@@ -53,7 +53,7 @@ Par exemple :
 
 Pour sélectionner plusieurs colonnes il faut écrire colonne1, colonne2, .... , colonne n
 
-Afin de sélectionner toutes les colonnes nous utilisons *****
+Afin de sélectionner toutes les colonnes nous utilisons *
 
 # 2. Travail à faire :
 
