@@ -6,15 +6,13 @@
 "selectionner toutes les colonnes de la table Livre"
 
 2. 
-	a) select titre from Livre
-	b) select titre,type from Livre
+	a) select titre from Livre <br>
+	b) select titre,type from Livre<br>
 	c) select * from Lecteur
 
-3. 
-	a) Selectionner la colonne titre et nbPages depuis
-	la table Livre
+3. a) Selectionner la colonne titre et nbPages depuis 
+	la table Livre <br>
 	b) Selectionner la colonne nomAuteur dans la table Auteur
-	
 ## Requêtes avec Where :
 
 1. a) Select * From Country WHERE surfaceArea > 100000
