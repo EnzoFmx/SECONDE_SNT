@@ -17,10 +17,9 @@
 	
 ## Requêtes avec Where :
 
-1. 
-	a) Select * From Country WHERE surfaceArea > 100000
-	b) Select name, continent from Country WHERE IndepYear > 1910
-	c) Select name from Country WHERE continent = "Europe"
+1. a) Select * From Country WHERE surfaceArea > 100000
+2. b) Select name, continent from Country WHERE IndepYear > 1910 
+3. c) Select name from Country WHERE continent = "Europe"
 
 
-	
+​	
