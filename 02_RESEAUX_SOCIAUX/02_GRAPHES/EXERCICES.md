@@ -29,7 +29,7 @@ Construire un graphe selon les informations suivantes :
 - Le graphe possède 5 sommets
 - Le rayon est de 2
 - Il n'y a qu'un seul centre
-- Le diamètre vaut 4
+- Le diamètre vaut 3
 
 ## Bonus :
 
