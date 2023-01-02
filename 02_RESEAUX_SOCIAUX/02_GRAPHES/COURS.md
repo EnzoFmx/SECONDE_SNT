@@ -44,3 +44,5 @@ Il existe différentes définitions sur les graphes :
 - **Diamètre :** Le diamètre d'un graphe est la distance entre les deux sommets les plus éloignés.
     - *Exemple : Ici le diamètre du graphe est de 3, il s'agit de la distance C,E ou A,E.*
 
+
+
