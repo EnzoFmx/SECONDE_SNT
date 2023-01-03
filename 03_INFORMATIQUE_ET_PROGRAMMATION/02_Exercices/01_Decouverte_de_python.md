@@ -86,7 +86,7 @@ var = 5
 
 <u>Partie 2 :</u>
 
-Donner une explication des opérateurs suivants (à l'aide d'une recherche web et en essayant d'autres exemple) :
+Donner une explication des opérateurs suivants (à l'aide d'une recherche web et/ou en essayant d'autres exemples) :
 
 - %, /, //
 
@@ -99,3 +99,4 @@ Dans un nouveau fichier :
 3. Créez une variable appelée `c` et affectez-lui la valeur 78.
 4. Créez une variable appelée `result` et affectez-lui la valeur de la somme de `a`, `b` et `c`.
 5. Affichez la valeur de `result`. (La fonction associée est dans un des documents du cours / Ou faire une recherche web)
+6. Exécutez votre fichier afin d'observer le résultat attendu.

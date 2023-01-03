@@ -61,7 +61,7 @@ Plusieurs choses sont à noter ici :
 
 **A la fin du mot clé IF et ELSE, il y a toujours `:`**
 
-**De plus, les lignes de code à exécuté selon la condition sont indentées, c'est à dire qu'elle sont décalées. Thonny, Edupython fait cette indentation automatiquement. Sinon il faut appuyer sur la touche `TAB` du clavier.**
+**De plus, les lignes de code à exécuter selon la condition sont indentées (elles sont décalées). Thonny, Edupython fait cette indentation automatiquement. Sinon il faut appuyer sur la touche `TAB` du clavier.**
 
 ### 2. 1. Exercices d'application :
 
@@ -80,18 +80,29 @@ a. Proposez une valeur pour la quelle la phrase `Vous ne gagnez rien` s'affiche.
 Exercice 2 :
 
 ```python
+#Partie 1 :
 note = 12
 if note < 10 : 
 	print('Insuffisant')
-elif note < 12 :
+if note < 12 :
 	print('Assez bien')
-elif note < 14 :
+if note < 14 :
 	print('Bien')
+
+    
+# Partie 2 :  
+note = 12
+if note < 10 : 
+	print('Insuffisant')
+if note < 12 :
+	print('Assez bien')
+if note < 14 :
+	print('Bien')  
 else :
     print('Très bien')
 ```
 
-1. Tester ce code, qu'affiche t'il avec une note égale à 12. 
-2. A quoi peut servir le mot clé `elif`
-3. Dans quel cas affichons nous "très bien"
+1. Faire un copier collé de la partie 1, qu'affiche t'il avec une note égale à 12. 
+2. En s'aidant de la partie 2, à quoi peut servir le mot clé `elif`
+3. Dans quel cas affichons nous "très bien" (pour la partie 2)
 
