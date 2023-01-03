@@ -99,4 +99,3 @@ Dans un nouveau fichier :
 3. Créez une variable appelée `c` et affectez-lui la valeur 78.
 4. Créez une variable appelée `result` et affectez-lui la valeur de la somme de `a`, `b` et `c`.
 5. Affichez la valeur de `result`. (La fonction associée est dans un des documents du cours / Ou faire une recherche web)
-
