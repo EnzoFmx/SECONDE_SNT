@@ -82,27 +82,27 @@ Exercice 2 :
 ```python
 #Partie 1 :
 note = 12
-if note < 10 : 
+if note > 10 : 
 	print('Insuffisant')
-if note < 12 :
+if note > 12 :
 	print('Assez bien')
-if note < 14 :
+if note > 14 :
 	print('Bien')
 
     
 # Partie 2 :  
 note = 12
-if note < 10 : 
-	print('Insuffisant')
-if note < 12 :
+if note > 10 : 
 	print('Assez bien')
-if note < 14 :
-	print('Bien')  
+elif note > 12 :
+	print('Bien')
+elif note > 14 :
+	print('Très bien')  
 else :
-    print('Très bien')
+    print('Insuffisant')
 ```
 
-1. Faire un copier collé de la partie 1, qu'affiche t'il avec une note égale à 12. 
+1. Faire un copier collé de la partie 1, qu'affiche t'il avec une note égale à 16. 
 2. En s'aidant de la partie 2, à quoi peut servir le mot clé `elif`
 3. Dans quel cas affichons nous "très bien" (pour la partie 2)
 
