@@ -71,7 +71,7 @@ Exercice 1 : Décrire la situation suivante en python
 
 > Bob est arrivé 15ème à son tournoi en ligne.
 > Si il est dans les 20 premiers
->     Alors afficher `"Vous remporté une récompense"`
+>     Alors afficher `"Vous remportez une récompense"`
 > Sinon
 >     afficher `"Vous ne gagnez rien"`
 
