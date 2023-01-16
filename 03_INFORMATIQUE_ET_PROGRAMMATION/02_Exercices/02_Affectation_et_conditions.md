@@ -81,7 +81,7 @@ Exercice 2 :
 
 ```python
 #Partie 1 :
-note = 12
+note = 16
 if note > 14 :
 	print('Bien')
 if note > 12 :
@@ -90,10 +90,8 @@ if note > 10 :
 	print('Insuffisant')
 
 
-
-    
 # Partie 2 :  
-note = 12
+note = 16
 if note > 14 :
 	print('Très bien')
 elif note > 12 :
@@ -104,7 +102,7 @@ else :
     print('Insuffisant')
 ```
 
-1. Faire un copier collé de la partie 1, qu'affiche t'il avec une note égale à 16. 
+1. Faire un copier collé de la partie 1, qu'affiche t'il avec une note égale à 13. 
 2. En s'aidant de la partie 2, à quoi peut servir le mot clé `elif`
-3. Dans quel cas affichons nous "très bien" (pour la partie 2)
+3. Dans quel cas affichons nous "Insuffisant" (pour la partie 2)
 
