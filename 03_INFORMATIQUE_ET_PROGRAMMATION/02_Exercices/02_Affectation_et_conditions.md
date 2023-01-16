@@ -82,22 +82,24 @@ Exercice 2 :
 ```python
 #Partie 1 :
 note = 12
-if note > 10 : 
-	print('Insuffisant')
-if note > 12 :
-	print('Assez bien')
 if note > 14 :
 	print('Bien')
+if note > 12 :
+	print('Assez bien')
+if note > 10 : 
+	print('Insuffisant')
+
+
 
     
 # Partie 2 :  
 note = 12
-if note > 10 : 
-	print('Assez bien')
+if note > 14 :
+	print('Très bien')
 elif note > 12 :
 	print('Bien')
-elif note > 14 :
-	print('Très bien')  
+elif note > 10 : 
+	print('Assez bien')
 else :
     print('Insuffisant')
 ```
