@@ -37,7 +37,6 @@ def incr(nombre) :
     print(var)
     print(test)
     return nombre+1
-print(test)
 ```
 
 <u>Exécuter ce code :</u>
