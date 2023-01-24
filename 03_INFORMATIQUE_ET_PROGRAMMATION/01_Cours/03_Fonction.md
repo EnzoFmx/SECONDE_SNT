@@ -16,13 +16,12 @@ Si le nombre est un multiple de 2 alors il est pair.
 
 ```python
 # Il faut définir le nombre, supposons 5
->>> nombre = 5
->>> if (nombre % 2) == 0 : 
-        est_pair = True
-    else :
-        est_pair = False
->>> est_pair 
-False
+nombre = 5
+if (nombre % 2) == 0 : 
+    est_pair = True
+else :
+    est_pair = False
+# Le résultat sera dans la variable est_pair
 ```
 
 Cette opération est à répéter pour chaque nombre à tester. Et si l'on fait ces mêmes opérations pour plusieurs nombres, nous perdons du temps à tout réécrire. Puis cela prend de la place dans la console ou le fichier python.
