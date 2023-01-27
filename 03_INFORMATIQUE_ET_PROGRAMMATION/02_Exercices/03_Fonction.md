@@ -9,40 +9,27 @@
 ## Exercice 2 :
 
 ```python
-var = 5
-nbr = 1
-def incr(nombre) :
-    var = 7 
-    return nombre+1
+def ........ (phrase , lettre) :
+	if lettre in phrase :
+        ...................
+    ........... :
+        ...................
 ```
 
-1. Que vaut `var` après l'exécution du code ? Pourquoi ?
-2. Que fait la fonction `incr` ? Que renvoie `incr(nbr)` ?
+1. Compléter cette fonction, trouvez lui un nom avec la description suivante :
 
-Changez la ligne `return nombre+1` par `return var` puis réexécutez le code.
+   Si la lettre *lettre* est dans la phrase *phrase* alors renvoyer Vrai, sinon renvoyer Faux
 
-3. Que vaut `var` après l'exécution du code ? Pourquoi ?
-4. Que fait la fonction `incr` ? Que renvoie `incr(nbr)` ? 
-
-> **Remarque :** Les variables écrites dans les fonctions sont dites **locales**. Elles apparaissent pendant l'appel de la fonction. Puis disparaissent quand la fonction est terminée. 
->
-> Elles s'opposent à des variables **globales** qui sont écrites hors des fonctions et ne changent pas de valeurs sauf si on le fait soi-même.
+2. Ecrire un appel de fonction renvoyant Vrai, un autre renvoyant Faux. (Testez la fonction)
 
 ## Exercice 3 : 
 
 ```python
-var = 5
-def incr(nombre) :
-    test = 1
-    print(var)
-    print(test)
-    return nombre+1
+def mystere(a, b, c, d):
+    return (a+b+c+d)/4   
 ```
 
-<u>Exécuter ce code :</u>
-
-1. Que se passe t'il lorsqu'on appelle la fonction `incr()` ? Expliquez (Il faut appeler la fonction dans la console)
-2. Que vaut `test` lorsqu'on a exécuté le code? Lorsqu'on appelle `incr()` ? Après avoir appelé `incr()`
+1. Que peut faire cette fonction ? Donnez lui un nom approprié.
 
 
 ## Exercice 4 : 
@@ -60,3 +47,20 @@ def plus_grand_que(a,b) :
 1. Que fait cette fonction ? Que renvoie t'elle ? 
 2. Ajoutez une valeur de retour à la fonction (Vous devez modifier la fonction)
 3. Ecrire un test permettant de vérifier que la fonction renvoie une valeur
+
+## Exercice 5 :
+
+```python
+def orientation(prenom, spe1, spe2, spe3) :
+    p = ' en première'
+    p1 = 'prendra les spécialités suivantes : '
+    p2 = ', '
+```
+
+1. Ecrire la suite de la fonction qui renvoie la phrase suivante :
+   - "*Votre nom* prendra les spécialités suivantes : *Spécialité 1*, *Spécialité 2*, *Spécialité 3* en première"
+2. Ecrire un test de la fonction avec votre nom et vos potentielles spécialités.
+
+## Exercice 6 :
+
+Ecrire une fonction permettant de savoir si un *nombre1* est le diviseur d'un autre nombre (appelé *nombre2*)
