@@ -55,9 +55,8 @@ turtle.forward(100)
 
 <u>Résultat attendu :</u>
 
-<figure style="text-align:center">
-<img src="../Images/rose.PNG">
-</figure>
+![](./Images/rose.PNG)
+
 
 
 
