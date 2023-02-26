@@ -16,7 +16,7 @@ Avec l'avènement d'Internet et des réseaux sociaux, l'informatique est devenue
 
 ### 1. 2. Python :
 
-Python est un langage de programmation **interprété**, de haut niveau, créé en 1989 par Guido van Rossum, alors qu'il travaillait pour le centre de recherche national néerlandais (CWI). Le nom "Python" fait référence à la comédie **Monty Python**, dont van Rossum était un fan.
+Python est un langage de programmation **interprété**, de haut niveau, créé en 1989 par Guido van Rossum, alors qu'il travaillait pour le centre de recherche national néerlandais (CWI). Le nom "Python" fait référence à la comédie **Monty Python**, dont Van Rossum était un fan.
 
 Au début, Python a été conçu comme un langage de script pour automatiser des tâches simples, mais il a rapidement gagné en popularité et est devenu un langage de programmation généraliste, utilisé dans de nombreux domaines différents.
 
