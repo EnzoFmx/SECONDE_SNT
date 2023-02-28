@@ -4,7 +4,7 @@
 
 En relisant le cours, répondre aux questions suivantes (les réponses sont à écrire dans un fichier Word)
 
-1. Donner 3 exemples de réseaux existants
+1. Donner 3 exemples de réseaux existants (qui ne sont pas informatiques)
 2. Donner un autre exemple de réseau PAN, un autre exemple d'un réseaux LAN
 3. Comment s'appelle ancêtre d'internet ? En quelle année à t'il été créé 
 4. Quelle est le nom du modèle permettant de représenter une machine dans le réseau ?
