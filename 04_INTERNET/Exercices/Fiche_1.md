@@ -7,7 +7,7 @@ En relisant le cours, répondre aux questions suivantes (les réponses sont à �
 1. Donner 3 exemples de réseaux existants (qui ne sont pas informatiques)
 2. Donner un autre exemple de réseau PAN, un autre exemple d'un réseaux LAN
 3. Comment s'appelle ancêtre d'internet ? En quelle année à t'il été créé 
-4. Quelle est le nom du modèle permettant de représenter une machine dans le réseau ?
+4. Quel est le nom du modèle permettant de représenter une machine dans le réseau ?
 5. Quelle est la différence entre Internet et le Web ?
 6. Que garanti le protocole TCP ?
 7. Parmi les adresses suivante, les quelles peuvent être "IP" :
