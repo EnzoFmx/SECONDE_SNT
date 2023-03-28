@@ -56,8 +56,10 @@ Réaliser les étapes ci-dessous :
 2. Configurons notre routeur :
 
    - Dans la section "Général" cocher la case "Routage automatique"
-4. Essayer de faire un ping d'une machine du premier réseau vers le second et expliquez ce qu'il se passe.
-5. Rajouter un autre réseau composé de 3 ordinateurs et d'un switch. Puis faire en sorte que les 3 réseaux puissent communiquer entre-eux
+3. Essayer de faire un ping d'une machine du premier réseau vers le second et expliquez ce qu'il se passe.
+4. Modifier les adresses du routeurs en 192.168.0.15 et 192.168.1.15 (selon le côté)
+5. Dans chaque ordinateur inscrire dans le champ 'Adresse de passerelle' l'adresse de votre routeur. (Soit 192.169.0.15 ou l'autre selon le côté)
+6. Rajouter un autre réseau composé de 3 ordinateurs et d'un switch. Puis faire en sorte que les 3 réseaux puissent communiquer entre-eux
 
 ## Exercice 4 :
 
