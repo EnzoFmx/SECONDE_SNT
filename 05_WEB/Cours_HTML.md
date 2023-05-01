@@ -48,7 +48,7 @@ Ici la balise qui a été appliquée est la balise <b> cette balise permet de me
 
 ## 2. 2. Composition d’une page HTML :
 
-Une page HTML est composée de 3 parties distinctes.
+Une page HTML est composée de 2 parties distinctes.
 
 ### 2. 2. 1. Head :
 
@@ -88,35 +88,6 @@ La partie body contient elle le contenu de la page HTML. Tout ce qui doit appara
 	  <li>Je suis un autre élement de la liste</li>
 	  <li>Je suis un troisième élement de la liste</li>
 	</ul>
-</body>
-</html>
-```
-
-### 2. 2. 1. Footer :
-
-Il s’agit du pied de page. Cette balise contient en général les informations sur l’auteur ou des liens vers d’autres ressources. 
-
-Cette partie se trouve dans un <body>
-
-```html
-<!DOCTYPE html>
-<html lang='fr'>
-<head>
-    <title>Titre du document (apparait dans l'onglet du navigateur)</title>
-		<meta charset="utf-8">
-</head>
-<body>
-<h1> Introduction : </h1>
-		<p> Je suis une page html et je contient des <b>informations importantes</b></p>
-<h2> Partie 1 de l'intro : </h2>
-		<ul>
-	  <li>Je suis un élement de la liste</li>
-	  <li>Je suis un autre élement de la liste</li>
-	  <li>Je suis un troisième élement de la liste</li>
-		</ul>
-<footer>
-<p>© 1990 Frémeaux</p>
-</footer>
 </body>
 </html>
 ```
