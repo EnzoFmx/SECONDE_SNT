@@ -10,27 +10,15 @@ Un réseau est un ensemble de *nœuds et/ou composants* **reliés ensemble par d
 
 ### En informatique il existe différents types de réseaux :
 
-<u>Les réseaux PAN :</u> 
-
-Le réseau PAN (Personal Area Network) est un réseau restreint ayant une portée de quelques mètres. Il fonctionne grâce au protocole Bluetooth (ondes radio).
-
-- Un téléphone relié à des écouteurs sans fil est un réseau PAN
-
 <u>Les réseaux LAN :</u>
 
 Le réseau LAN (Local Area Network) est un réseau à l'échelle d'une maison ou d'une entreprise. il est plus communément appelé réseau intranet.
 
 - Des comptes élèves d'un lycée sont stockés dans le serveur du lycée, seules les machines connectées au réseau du lycée peuvent y accéder.
 
-<u>Les réseaux MAN :</u>
-
-Le réseau MAN (Metropolitan Area Network) est un réseau à l'échelle d'une ville. Il relie plusieurs réseaux LAN.
-
-- Un campus universitaire est considéré comme un réseau MAN par exemple.
-
 <u>Les réseaux WAN :</u>
 
-Le réseau WAN (Wide Area Network) est un réseau à l'échelle d'un pays, utilisé par les grandes entreprises et les opérateurs. (Internet est un réseau WAN)
+Le réseau WAN (Wide Area Network) est un réseau à l'échelle d'un pays, utilisé par les grandes entreprises et les opérateurs, il est constitué d'une multitude de réseaux LAN. (Internet est un réseau WAN)
 
 ## 2. Historique :
 
@@ -46,9 +34,12 @@ C'est en **1967** que le précurseur d'internet vu le jour **ARPANET**
 
 On voit avec cette carte les connexions possible au US, ici seuls quelques villes pouvaient communiquer entre elles. 
 
-C'est en **1973** que le protocole **TCP/IP** fut défini. Le protocole utilisé jusqu'à présent pour le réseau ARPANET était obsolète dès sa création, utilisant des IMP (ancêtre du routeur) et ne gérant pas les erreurs d'envoi et de réception des données.
+**En France un réseau similaire vu le jour, il s'appelait Cyclades (en 1971).**
 
-Les années passent et c'est en **1983** que le protocole TCP/IP et le mot **Internet** furent adoptés.
+C'est en **1973** que le protocole **TCP/IP** fut défini. Il était plus efficace que le protocole utilisé pour le réseau ARPANET qui utilisait des IMP (ancêtre du routeur) et ne gérait pas des erreurs d'envoi et de réception de données.
+
+Les années passent et c'est en **1982/1983** que le protocole TCP/IP est standardisé et qu'**Internet** fut crée.
+
 Très vite le nombre de machine connectées entre elle augmenta :
 
 - 1 000 en 1984
@@ -69,12 +60,12 @@ Très vite le nombre de machine connectées entre elle augmenta :
 
 #### <u>Couche accès réseau :</u>
 
-Cette couche permet de comprendre comment la machine est reliée au réseau :
-Par exemple, on peut admettre qu'une machine est relié par **WIFI** sur un **routeur**
+Cette couche permet de comprendre par quel moyen la machine est reliée au réseau :
+Par exemple, on peut admettre qu'une machine est relié au réseau par **WIFI** 
 
 #### <u>Couche Internet :</u>
 
-La couche internet utilise le protocole **IP (internet protocol)** (Que l'on expliquera plus bas dans le cours)
+La couche internet utilise le protocole **IP (internet protocol)** *(Que l'on expliquera plus bas dans le cours)*. Elle permet d'assurer la communication entre les machines.
 
 #### <u>Couche Transport :</u>
 
@@ -82,18 +73,22 @@ Cette couche contient les protocoles possible pour l'envoi des données, en effe
 
 #### <u>Couche Application :</u>
 
-Grâce au réseau internet il est possible de faire plusieurs choses, jouer en ligne, envoyer des mails, aller sur le **WEB**. Chaque application possède son protocole, **HTTP(S)** pour le **WEB** notamment.
+Grâce au réseau internet il est possible de faire plusieurs choses, jouer en ligne, envoyer des mails, aller sur le **WEB**. Chaque application utilise un protocole, **HTTP(S)** pour le **WEB** notamment, **SMTP** pour l'envoi de mail.
 
 ### 2. Protocole TCP :
 
-Le protocole TCP est un protocole permettant l'envoie de message entre deux machines. Il fonctionne par envoie et accusé de réception.
+Le protocole TCP est un protocole permettant l'envoi de message entre deux machines. Il fonctionne par envoie et accusé de réception.
 
 <u>Exemple :</u>
 
 - Bob souhaite envoyé la phrase suivante à Alice : "Bonjour comment vas tu?"
-- Le protocole TCP va dans un premier temps découper le message e en **paquets** et les numéroter : 'Bonjour ', 'comment ', 'vas tu ?'
-  ('Bonjour ' paquet 1, 'comment ' paquet 2, 'vas tu ?' paquet 3)
+
+- Le protocole TCP va dans un premier temps découper le message en **paquets** et les numéroter : 'Bonjour ', 'comment ', 'vas tu ?'
+
+  *('Bonjour ' => paquet 1, 'comment ' => paquet 2, 'vas tu ?' =>paquet 3)*
+
 - Le protocole envoie les **paquets** un à un et une fois un paquet reçu Alice envoie un **Accusé de réception**
+
 - Une fois tout les paquets envoyés la communication est terminée, **s'il y a des accusés de réception non reçus Bob renvoie les messages perdus**
 
 Voici un exemple d'exécution du protocole.
