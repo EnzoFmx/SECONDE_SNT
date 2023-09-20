@@ -1,6 +1,6 @@
 # Dossier : ./2 SECONDE SNT/04 INTERNET
  
  ## Contenu du dossier : 
-- [Composant et réseaux](./02_Composant et réseaux)
-- [Principes et histoire d'internet](./01_Principes et histoire d'internet)
-- [readme.md](./readme.md)
+- 02 Composant et réseaux [02 Composant et réseaux](./02_Composant et réseaux)
+- 01 Principes et histoire d'internet [01 Principes et histoire d'internet](./01_Principes et histoire d'internet)
+- readme.md [readme.md](./readme.md)
