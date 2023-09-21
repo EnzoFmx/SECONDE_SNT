@@ -1,13 +1,12 @@
-# Dossier : ./././2 SECONDE SNT/03 INFORMATIQUE ET PROGRAMMATION/99 Annexes/Images
+# Dossier : Images
  
  ## Contenu du dossier : 
-- niveau langage.PNG [niveau langage.PNG](./niveau_langage.PNG)
-- Icone exec.png [Icone exec.png](./Icone_exec.png)
-- Interface.png [Interface.png](./Interface.png)
-- Editeur.png [Editeur.png](./Editeur.png)
 - Console.png [Console.png](./Console.png)
+- Editeur.png [Editeur.png](./Editeur.png)
+- Exec.png [Exec.png](./Exec.png)
 - Exec2.png [Exec2.png](./Exec2.png)
 - Icone.png [Icone.png](./Icone.png)
+- Icone exec.png [Icone exec.png](./Icone_exec.png)
+- Interface.png [Interface.png](./Interface.png)
+- niveau langage.PNG [niveau langage.PNG](./niveau_langage.PNG)
 - thonny.png [thonny.png](./thonny.png)
-- Exec.png [Exec.png](./Exec.png)
-- readme.md [readme.md](./readme.md)
