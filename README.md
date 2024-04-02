@@ -7,4 +7,5 @@
 - 03 INFORMATIQUE ET PROGRAMMATION [03 INFORMATIQUE ET PROGRAMMATION](./03_INFORMATIQUE_ET_PROGRAMMATION)
 - 04 INTERNET [04 INTERNET](./04_INTERNET)
 - 99 FICHE OUTILS [99 FICHE OUTILS](./99_FICHE_OUTILS)
+- .gitignore [.gitignore](./.gitignore)
 - Exposes fiche base v3.pdf [Exposes fiche base v3.pdf](./Exposes_fiche_base_v3.pdf)
